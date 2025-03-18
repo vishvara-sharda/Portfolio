@@ -1,0 +1,13 @@
+.divide{
+    width:100%;
+    margin-right: 10%;
+    position:relative;
+    margin-bottom:12%;
+
+}
+.divide img{
+    width: 100%;
+    position:absolute;
+    left:-1px;
+    
+}

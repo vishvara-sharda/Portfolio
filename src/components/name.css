@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Miama;
+    src: url("./miama/Miama.otf");
+}
+.name{
+    font-family: Miama;
+    font-size: 250px;
+    display: flex;
+    flex-direction: column;
+    gap:2px;
+    height: 20%;
+    position: relative;
+    
+}
+.vish{
+    margin:0%;
+    position:absolute;
+    left:36%;
+    transform:translateX(-50%);
+    top:-95px;
+    text-shadow:  2px 2px 2px #FFE08E, 2px 4px 4px #ff87d9 ;
+
+}
+.gandharv{
+    position: absolute;
+    left: 63%;
+    transform: translateX(-50%);
+    margin-top: 6%;
+    top:-105px;
+    text-shadow:  2px 2px 2px #FFE08E, 2px 4px 4px #ff87d9 ;
+
+}

@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
+
+.items{ /*selector*/
+    /*properties*/
+    list-style-type: none; /* style type */
+    display: flex ;
+    justify-content: space-around;
+    width: 60%;
+    justify-items: flex;
+    position: absolute;
+    right: 30px;
+
+}
+.navbar{
+    display: flex;
+    width: 100%;
+    position: relative;
+    
+}
+.logo{
+    width: 10%;
+}
+.items li {/* select all navbar items in list*/
+    margin: 10px;
+    font-weight: 400;
+    font-family: "Silkscreen";
+    width: 100%;
+
+
+}
+.silkscreen-regular {
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .silkscreen-bold {
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
